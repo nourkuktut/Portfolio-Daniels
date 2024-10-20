@@ -49,7 +49,8 @@ This project is licensed under the MIT License.
 For inquiries about this project or similar design and development services, feel free to contact me:
 - [Email] (nourkutkut12@gmail.com)
 
-
+## Live Demo:
+[Demo](https://nourkuktut.github.io/Portfolio-Daniels/)
   
 
    
