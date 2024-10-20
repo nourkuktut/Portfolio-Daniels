@@ -12,6 +12,11 @@
 - 🔗 **Live Links:** Easy access to the client’s projects and social media profiles.
 - 📁 **Structured Navigation:** Clear and intuitive navigation to highlight key sections like **Projects**, **Skills**, and **Contact Information**.
 
+  ## Live Demo:
+  You can view the live demo of the application
+   [here](https://nourkuktut.github.io/Portfolio-Daniels/)
+  
+
 ## Installation
 
 If you want to run the project locally for modifications or testing, follow these steps:
@@ -47,10 +52,11 @@ This project is licensed under the MIT License.
 
 ## Contact
 For inquiries about this project or similar design and development services, feel free to contact me:
-- [Email] (nourkutkut12@gmail.com)
+<br>
+**Linkedin: [here](https://www.linkedin.com/in/nourkutkut).**
+<br>
+**Email:nourkutkut12@gmail.com**
 
-## Live Demo:
-[Demo](https://nourkuktut.github.io/Portfolio-Daniels/)
-  
+
 
    
