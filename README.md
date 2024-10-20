@@ -1,6 +1,6 @@
 # Daniels Portfolio
 
-![Portfolio Preview]()
+![Portfolio Preview](image/Daniels.png)
 
 ## Overview
 **Daniels Portfolio** is a personal portfolio website designed and developed for [Daniels Name] to showcase his skills and projects in web development. This portfolio was created with a modern design, ensuring responsiveness and a user-friendly experience, reflecting the professionalism and creativity of the client.
